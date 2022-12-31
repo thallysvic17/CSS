@@ -52,7 +52,7 @@ section h2 {
     margin-left: 8px;
 }
 .Articles article a{
-    background-color: blue;
+    background-color: rgb(129, 241, 129);
     color: aliceblue;
     padding: 8px;
     display: inline-block;
@@ -87,5 +87,21 @@ section h2{
 
 }
 #Economy .Articles article a{
-    background-color: orangered;
+    background-color: rgb(111, 204, 5);
+}
+
+#Tecnologia {
+    background-color: rgb(34, 132, 243);
+}
+
+#Tecnologia .Articles article a{
+    background-color: blue;
+}
+
+#Educacao {
+    background-color: rgb(236, 62, 62);
+}
+
+#Educacao .Articles article a{
+    background-color: red;
 }
